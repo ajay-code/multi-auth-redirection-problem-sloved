@@ -1,4 +1,4 @@
-# multi-auth-redirection-problem-sloved
+# Laravel multi auth redirection problem sloved
 
 ## If you are having Problem with Hesto/multi-auth for laravel then :
 
