@@ -2,8 +2,8 @@
 
 ## If you are having Problem with Hesto/multi-auth for laravel then :
 
-Replace the app/exception/handler.php with handle.php in this repo
+Replace the app/Exceptions/handler.php with handle.php in this repo
 
 ### OR
 
-copy and paste < unauthenticated > function from handle.php in this repo to your app/exception/handler.php file
+copy and paste < unauthenticated > function from handle.php in this repo to your app/Exceptions/handler.php file
